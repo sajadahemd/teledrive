@@ -9,7 +9,7 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 - [Google Photos ends the free storage service](https://www.techradar.com/news/google-photos-price)
 - We deserve the free cloud storage service! Pricing: [Google Drive](https://one.google.com/about/plans), [OneDrive](https://one.google.com/about/plans), [Dropbox](https://www.dropbox.com/individual/plans-comparison), [iCloud](https://support.apple.com/en-us/HT201238)
 
-
+<a href="https://www.buymeacoffee.com/mishaln" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVwebkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 ## Getting Started
 
 Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
